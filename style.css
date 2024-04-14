@@ -106,7 +106,7 @@ li{
     0 calc(100% - 55px)
     );
 }
-/*random "edit" to commit*/
+
 .post-it:before {
     content: "";
     position: absolute;
